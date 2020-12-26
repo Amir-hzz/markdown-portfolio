@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Clean File
+
+**sfdfgnjfdngjf** sdsdsd _sdsdsd_
+
+### Blah blah blah
+- fhfghgh
+- gfgfg
+- uikil
+
+## sdsfnjdsfk,elf
+
+ 
